@@ -18,7 +18,7 @@ class User:
     def save_account(self):
 
         '''
-        save_account method saves account objects into account_list
+        save_account method saves an account objects into account_list
         '''
 
         User.account_list.append(self)
