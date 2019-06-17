@@ -34,7 +34,7 @@ class TestAccount(unittest.TestCase):
 
     def test_save_account(self):
         '''
-        test_save_account test case to test if the contact object is saved into
+        test_save_account test case to test if the account object is saved into
          the account list
         '''
         self.new_account.save_account() # saving the  account
