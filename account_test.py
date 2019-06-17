@@ -58,7 +58,7 @@ class TestAccount(unittest.TestCase):
             test_account = User("Test","user","0712345678","test@user.com","password","platform") # new account
             test_account.save_account()
 
-            self.new_account.delete_account()# Deleting a account object
+            self.new_account.delete_account()# Deleting an account object
             self.assertEqual(len(User.account_list),1)
 
     def test_find_account_by_platform(self):
