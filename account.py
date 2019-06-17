@@ -49,7 +49,7 @@ class User:
     @classmethod
     def account_exist(cls,text):
         '''
-        Method that checks if a account exists from the account list.
+        Method that checks if an account exists from the account list.
         Args:
             text: Platform to search if it exists
         Returns :
