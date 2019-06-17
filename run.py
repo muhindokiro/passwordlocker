@@ -34,7 +34,7 @@ def check_existing_accounts(text):
 
 def display_accounts():
     '''
-    Function that returns all the saved accounts
+    Function that returns all saved accounts
     '''
     return User.display_accounts()
 
