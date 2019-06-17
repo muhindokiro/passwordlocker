@@ -28,7 +28,7 @@ def find_account(text):
 
 def check_existing_accounts(text):
     '''
-    Function that check if an account exists wit that platform and returns a Boolean
+    Function that check if an account exists wi that platform and returns a Boolean
     '''
     return User.account_exist(text)
 
