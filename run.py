@@ -73,7 +73,7 @@ def main():
                             platform = input()
 
 
-                            save_accounts(create_account(f_name,l_name,p_number,e_address,password,platform)) # create and save new account.
+                            save_accounts(create_account(f_name,l_name,p_number,e_address,password,platform)) # create and save a new account.
                             print ('\n')
                             print(f"New Account {f_name} {l_name} created")
                             print ('\n')
