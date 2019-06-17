@@ -15,6 +15,10 @@ Requirements
 
 * Internet Connection
 * Computer or Mobile device
+* Open repository in github in the link livesite below
+* Clone the repository of this application
+* Run it in the terminal. Use --> ./run.py
+
 
 
 Behaviour Driven Development
@@ -42,13 +46,14 @@ Technologies Used
 
 1. Python
 2. Visual studio code
+3. Github
 
 
 
 Contact details
 ----------------
 
-E-mail: gitsearch@gmail.com
+E-mail: gitpasswordlocker@gmail.com
 
 Phone: 0712345678
 
