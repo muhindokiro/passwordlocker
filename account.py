@@ -34,7 +34,7 @@ class User:
     @classmethod
     def find_by_platform(cls,text):
         '''
-        Method that takes in a platform and returns a account that matches that platform.
+        Method that takes in a platform and returns an account that matches that platform.
 
         Args:
             text: Platform to search for
