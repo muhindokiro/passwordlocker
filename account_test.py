@@ -8,7 +8,7 @@ class TestAccount(unittest.TestCase):
         '''
         Set up method to run before each test cases.
         '''
-        self.new_account = User("userfn","userln","0712345678","user@gmail.com","userpassword","userplatform") # create a account object
+        self.new_account = User("userfn","userln","0712345678","user@gmail.com","userpassword","userplatform") # create an account object
 
 
     def tearDown(self):
